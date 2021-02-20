@@ -9,8 +9,12 @@
 
 }
 
-.bg-color-three-reasons{
+.bg-color-three-reasons {
     background-color: #fff;
+}
+
+.bg-color-personal-info {
+    background-color: #f4f4f4;
 }
 
 .ui-menu-color-home{
@@ -227,5 +231,5 @@ footer {
 
 .three-reasons-heading {
     margin-bottom: 15px;
-    
+
 }

@@ -1,5 +1,5 @@
 console.log("hello world")
-function sendMail(contactForm) {
+function sendEmail(contactForm) {
     emailjs.send("gmail", "andres", {
         "from_name": contactForm.name.value,
         "from_email": contactForm.emailaddress.value,

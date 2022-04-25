@@ -404,16 +404,7 @@ button[type="submit"] {
     body {
         padding-top: 30px;
         min-height: max-content;
-        margin: 0 5% auto 5%;
-        max-width: 90%;
-    }
-}
-
-@media(min-width: 3000px) {
-    body {
-        padding-top: 30px;
-        min-height: max-content;
-        margin: 0 10% auto 10%;
+        margin: 0 50% auto 50%;
         max-width: 90%;
     }
 }

@@ -400,19 +400,10 @@ button[type="submit"] {
     }
 }
 
-@media(min-width: 2000px) {
+@media(min-width: 992px) and (max-width: 9000px) {
     body {
         padding-top: 30px;
-        min-height: max-content;
-        margin: 0 5% auto 5%;
-        max-width: 90%;
-    }
-}
-
-@media(min-width: 3000px) {
-    body {
-        padding-top: 30px;
-        min-height: max-content;
+        min-height: 240px;
         margin: 0 10% auto 10%;
         max-width: 90%;
     }

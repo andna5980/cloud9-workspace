@@ -418,12 +418,3 @@ button[type="submit"] {
     }
 }
 
-@media(min-width: 5000px) {
-    body {
-        padding-top: 30px;
-        min-height: max-content;
-        margin: 0 20% auto 20%;
-        max-width: 90%;
-    }
-}
-
